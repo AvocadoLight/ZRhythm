@@ -1,13 +1,13 @@
 # ZRhythm
 
-這是一個免費開源的音樂遊戲
-This project is free to use
-你可以在這裡下載並且在你的手機裡面測試
-you can download here
+這是一個免費開源的音樂遊戲＜/br＞
+This project is free to use＜/br＞
+你可以在這裡下載並且在你的手機裡面測試＜/br＞
+you can download here＜/br＞
 https://play.google.com/store/apps/details?id=com.BurningxEmpires.ZRhythm2&hl=zh_HK
 
-需要額外下載 NGUI 插件
- NGUI require
+需要額外下載 NGUI 插件＜/br＞
+ NGUI require＜/br＞
 https://assetstore.unity.com/packages/tools/gui/ngui-next-gen-ui-2413
 
 ![alt text](https://lh3.googleusercontent.com/Nr1mn3itf1Ah5m_Sav4wlyqeV7O8PFzuq1vgjrSSdhk0bxOWN8Lv2kuOWfeCp3pHsjw=h900-rw)
