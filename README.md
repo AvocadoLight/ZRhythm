@@ -18,5 +18,63 @@ AndroidFilePicker.PickAudio(callback);
 
 AndroidFilePicker.PickImage(callback);
 ```
+裡面還包含了呼叫安卓平台一些常見的原生功能:
+
+```
+	public class AlertDialogBox{
+		public AlertDialogBox(bool useTheme = false){}
+
+		public AlertDialogBox(Action<int> onCallback,bool useTheme = false){}
+
+		public AlertDialogBox(string title,string text,Action<int> onCallback,bool useTheme = false){}
+
+		public void setCallback(Action<int> callback){}
+
+		public void setTitle(string title){}
+
+		public void setMessage(string message){}
+
+		public void setButton(BUTTON button,string text){}
+
+		public void setButton(int button,string text){}
+
+		public void BreakLine(){}
+
+		public void MakeItScroll(){}
+
+		public void MakeItList(){}
+
+		public AndroidJavaObject getLayout( ){}
+
+		public void setLayoutPadding(int left,int right,int top,int bottom){}
+
+		public AndroidJavaObject addInputText(string text){}
+
+		public AndroidJavaObject addToggleButton(string text,bool check){}
+
+		public AndroidJavaObject addCheckBox(string text,bool check){}
+
+		public AndroidJavaObject addTextView(string text){}
+
+		public AndroidJavaObject setInputText(string text){}
+
+		public AndroidJavaObject setToggleButton(string text,bool enable){}
+		
+		public bool getToggleEnable(int index){}
+
+		public int getButtonNeutral(){}
+
+		public int getButtonPositive(){}
+
+		public void Cancel(){}
+
+		public void Show(){}
+	}
+```
+技術提供:
+
+https://stackoverflow.com/questions/33295300/how-to-get-absolute-path-in-android-for-file
+http://givemepass.blogspot.tw/2016/09/imagepickercreatechooser.html
+https://stackoverflow.com/questions/29713587/howto-get-the-real-path-with-action-open-document-tree-intent-lollipop-api-21
 
 ## Getting Started
