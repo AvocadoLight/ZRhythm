@@ -1,13 +1,13 @@
 # ZRhythm
 
-³o¬O¤@­Ó§K¶O¶}·½ªº­µ¼Ö¹CÀ¸
-§A¥i¥H¦b³o¸Ì¤U¸ü¨Ã¥B¦b§Aªº¤â¾÷¸Ì­±´ú¸Õ
+é€™æ˜¯ä¸€å€‹å…è²»é–‹æºçš„éŸ³æ¨‚éŠæˆ²
+ä½ å¯ä»¥åœ¨é€™è£¡ä¸‹è¼‰ä¸¦ä¸”åœ¨ä½ çš„æ‰‹æ©Ÿè£¡é¢æ¸¬è©¦
 
 https://play.google.com/store/apps/details?id=com.BurningxEmpires.ZRhythm2&hl=zh_HK
 
 ![alt text](https://lh3.googleusercontent.com/Nr1mn3itf1Ah5m_Sav4wlyqeV7O8PFzuq1vgjrSSdhk0bxOWN8Lv2kuOWfeCp3pHsjw=h900-rw)
 
-¸Ì­±¥]§t¤F¦b¤â¾÷§ì¨ú¹Ï¤ù©Î¬O­µ°TÀÉ®×¡BÁÙ¦³ÂsÄı¸ê®Æ§¨ªº¥\¯à¡A§A¥i¥H¦b§Aªº±M®×¸Ì­±µLÀv¨Ï¥Î³o¨Ç¥\¯à
+è£¡é¢åŒ…å«äº†åœ¨æ‰‹æ©ŸæŠ“å–åœ–ç‰‡æˆ–æ˜¯éŸ³è¨Šæª”æ¡ˆã€é‚„æœ‰ç€è¦½è³‡æ–™å¤¾çš„åŠŸèƒ½ï¼Œä½ å¯ä»¥åœ¨ä½ çš„å°ˆæ¡ˆè£¡é¢ç„¡å„Ÿä½¿ç”¨é€™äº›åŠŸèƒ½
 
 ```
 AndroidFilePicker.PickFolder(callback);
@@ -18,7 +18,7 @@ AndroidFilePicker.PickAudio(callback);
 
 AndroidFilePicker.PickImage(callback);
 ```
-¸Ì­±ÁÙ¥]§t¤F©I¥s¦w¨ô¥­¥x¤@¨Ç±`¨£ªº­ì¥Í¥\¯à:
+è£¡é¢é‚„åŒ…å«äº†å‘¼å«å®‰å“å¹³å°ä¸€äº›å¸¸è¦‹çš„åŸç”ŸåŠŸèƒ½:
 
 ```
 	public class AlertDialogBox{
@@ -86,8 +86,15 @@ AndroidFilePicker.PickImage(callback);
 		public static void SetTheme(int id){}
 	}
 ```
-§Ş³N´£¨Ñ:
+æŠ€è¡“æä¾›:
 
 https://stackoverflow.com/questions/33295300/how-to-get-absolute-path-in-android-for-file
 http://givemepass.blogspot.tw/2016/09/imagepickercreatechooser.html
 https://stackoverflow.com/questions/29713587/howto-get-the-real-path-with-action-open-document-tree-intent-lollipop-api-21
+
+## é è¦½åœ–ç‰‡
+
+![alt text](https://lh3.googleusercontent.com/x_Uuy7w6xzhbgfyfOA5KRm5rd3WIGd_diHqO_8DJ8MCQEwUYLEt30jhEMtI-lSLiww=h900-rw)
+![alt text](https://lh3.googleusercontent.com/jWUHMsILZ_xcPLVfHVFTe5AHZ6yLRN-KuZDqbRRkCLX7hf48Z4ALC4BeELfThjwWJS86=h900-rw)
+![alt text](https://lh3.googleusercontent.com/khwQ3p7kF0B06xmMJ8Z7VgBYz8yJE8_nVt-l57lNcn_UhvN_pyoz1dPq39zUT6ujEko=h900-rw)
+
