@@ -71,6 +71,21 @@ AndroidFilePicker.PickImage(callback);
 		public void Show(){}
 	}
 ```
+
+```
+	public static class AndroidTool{
+		//https://developer.android.com/reference/android/R.style.html#Theme_Material
+		public const int Theme_Light = 16973836;
+		public const int Theme_Material = 16974372;
+		public const int Theme_Holo_Light = 16973934;
+
+		public static void MakeToast(string message){}
+
+		public static void SetTheme(){}
+
+		public static void SetTheme(int id){}
+	}
+```
 技術提供:
 
 https://stackoverflow.com/questions/33295300/how-to-get-absolute-path-in-android-for-file
