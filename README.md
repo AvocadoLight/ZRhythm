@@ -91,5 +91,3 @@ AndroidFilePicker.PickImage(callback);
 https://stackoverflow.com/questions/33295300/how-to-get-absolute-path-in-android-for-file
 http://givemepass.blogspot.tw/2016/09/imagepickercreatechooser.html
 https://stackoverflow.com/questions/29713587/howto-get-the-real-path-with-action-open-document-tree-intent-lollipop-api-21
-
-## Getting Started
