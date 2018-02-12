@@ -17,7 +17,6 @@ AndroidFilePicker.PickFile(callback);
 AndroidFilePicker.PickAudio(callback);
 
 AndroidFilePicker.PickImage(callback);
-
 ```
 
 ## Getting Started
