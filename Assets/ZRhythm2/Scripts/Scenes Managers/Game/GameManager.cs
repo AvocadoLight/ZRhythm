@@ -203,13 +203,14 @@ namespace BurningxEmpires.ZRhythm.Game{
 			yield return StartCoroutine( LoadTexture(temp));
 
 			print("|GenerateNotes|");
-
+			
+			GameLoadingDialog.getInstance.Close();
+			
 			countDown.StartCountDown();
 			yield return new WaitUntil(()=>{
 				return countDown.isDone;
 			});
 			audioPlayer.Play();
-			GameLoadingDialog.getInstance.Close();
 			isPrepare = true;
 		}
 
